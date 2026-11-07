@@ -1,5 +1,5 @@
 nome = input("digite seu nome: ")
-peso = int(input("digite seu peso: "))
+peso = float(input("digite seu peso: "))
 altura = float(input("digite sua altura(ex: 1.60): "))
 imc = peso / (altura*2)
 
