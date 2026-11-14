@@ -14,3 +14,5 @@ print("colocar o pneu antigo no porta-malas")
 print("colocar o macaco no porta-malas")
 print("colocar o triangulo no porta-malas")
 print("ir no mecanico")
+
+print("fim")
